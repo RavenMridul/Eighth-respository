@@ -1,0 +1,1001 @@
+company_id,name,founded_year,industry,headquarters,employee_count,revenue (M USD)
+1,Christensen-Strong,1996,Finance,"South Elizabethborough, AZ",3579,5030.51
+2,Santana and Sons,1952,Food & Beverage,"West Laurastad, WI",16358,292.48
+3,"Bush, Spencer and Sexton",2006,Food & Beverage,"Gailburgh, VA",7161,7122.79
+4,Harmon-Davis,1964,Finance,"Lake Corey, NC",10087,6265.18
+5,"Peterson, Hernandez and Solomon",2000,Food & Beverage,"New Jenniferbury, MD",18547,6459.61
+6,Serrano-Kent,2003,Finance,"East Rachelmouth, OR",8791,8156.59
+7,Montes-Lopez,1978,Manufacturing,"Lake Nicolemouth, MS",831,928.16
+8,Ward Inc,1995,Food & Beverage,"Keithfurt, CO",19451,9606.2
+9,Maxwell LLC,2011,Finance,"South Robertside, CO",3206,2145.09
+10,Green Ltd,2004,Finance,"Owensburgh, AL",12334,9174.43
+11,Lloyd Inc,1972,Retail,"Patriciaville, MT",6802,9315.41
+12,Johnson Group,1980,Finance,"Janetburgh, AR",148,1560.72
+13,Nelson-Banks,1960,Manufacturing,"New Gregory, NV",2289,8117.88
+14,Cain-Brown,1982,Manufacturing,"Toniburgh, OK",868,9035.26
+15,King-Norris,2019,Retail,"East Michelleborough, KY",1502,8708.15
+16,Ross-Edwards,2015,Food & Beverage,"West Melissa, NV",5244,3341.34
+17,"Cherry, Jones and Wilson",2005,Manufacturing,"Kingview, ME",4884,2187.5
+18,"Rivera, Walker and Mills",1964,Food & Beverage,"Ballfort, MA",1631,5332.33
+19,"Sims, Cox and Kline",1988,Manufacturing,"West Eric, WI",12085,5797.24
+20,"Fuller, Norton and Hooper",1957,Healthcare,"New Tyler, AR",15565,4699.63
+21,Greer Inc,1990,Healthcare,"Moranmouth, KS",6752,8506.55
+22,Reid and Sons,1984,Manufacturing,"Port Michael, DC",8486,6568.42
+23,Watson-Martinez,2013,Healthcare,"Campostown, MN",2960,2631.09
+24,Silva and Sons,1986,Finance,"East Evelyn, OR",17583,4385.76
+25,Clements and Sons,2003,Finance,"Johnborough, AR",6337,5799.4
+26,Montes-Allen,2002,Food & Beverage,"Yolandatown, LA",3899,3254.92
+27,"Marsh, Powell and Leach",1962,Finance,"New Dawnfurt, DE",9005,5070.64
+28,Montes and Sons,1994,Food & Beverage,"North Lori, TX",4478,1629.02
+29,Gaines-Bradshaw,1983,Technology,"East Pamelaburgh, LA",525,5887.92
+30,Rhodes LLC,2010,Technology,"East Stuart, WV",10412,6631.66
+31,James-Boyd,2005,Manufacturing,"Andreahaven, ND",8136,9439.79
+32,"Green, Wade and Welch",1986,Healthcare,"Robertview, WI",11946,7894.92
+33,Gibson Group,1978,Healthcare,"Jenniferview, PA",11900,772.32
+34,White PLC,1954,Technology,"Joelmouth, IL",14238,6552.79
+35,Johnson Group,1998,Manufacturing,"Patelstad, AK",15597,3211.54
+36,"Graham, Weber and James",2005,Healthcare,"Martinezstad, WI",4283,7355.32
+37,Thompson-Anderson,2018,Healthcare,"Port Stephenton, UT",16003,5952.86
+38,Jones Ltd,1977,Technology,"Davisville, OK",17805,2275.48
+39,"Wilson, Mccarthy and Mcguire",1991,Healthcare,"Everettmouth, FL",5315,149.8
+40,Hess-Walton,1982,Food & Beverage,"East Rebeccaton, WY",13659,367.85
+41,"Bowen, Mullen and Goodwin",1980,Food & Beverage,"Tanyaberg, MA",19577,5963.77
+42,Osborne Group,1998,Food & Beverage,"Stefanieport, HI",6798,4943.05
+43,Cummings Group,2004,Manufacturing,"West Courtneyview, MS",8227,4496.64
+44,"White, Oneill and Allen",1973,Food & Beverage,"Tuckermouth, NM",19058,358.73
+45,Gross-Williams,2019,Technology,"West Steven, CA",2584,8574.81
+46,Hanna-Stanley,1952,Finance,"South Mckenzie, WY",12067,143.78
+47,"Sweeney, Jones and Walker",2022,Technology,"Lake Emily, MI",6271,7191.73
+48,Clark Inc,2010,Manufacturing,"South Jerry, HI",7066,1811.72
+49,Hamilton PLC,1960,Healthcare,"Lauraville, KS",13566,3955.01
+50,Smith-Williams,1978,Food & Beverage,"South Kim, DE",18449,2309.68
+51,"Oconnor, Montgomery and Allen",1995,Retail,"East Kim, KS",16699,2508.41
+52,Green-Flores,2004,Technology,"North Sandratown, DC",2407,4314.03
+53,"Morris, Edwards and White",1980,Technology,"Holderton, AK",15148,5364.03
+54,"Hill, Burton and Gilbert",1980,Manufacturing,"Johnsonville, OH",14371,7915.8
+55,Ali-Donovan,2006,Technology,"North Kellytown, NV",4469,6804.76
+56,"Williams, Walker and Lewis",2021,Retail,"New Briantown, FL",12711,7794.65
+57,Hopkins-Hawkins,1955,Retail,"New Briana, IA",2412,6957.32
+58,Jones-Ray,1965,Finance,"Mitchelltown, OH",2647,6243.9
+59,Clark-Ferguson,2016,Retail,"Lake Jenniferhaven, CO",7726,5504.79
+60,Brown Inc,1991,Technology,"West Tylerberg, AL",7493,3293.89
+61,Singh-Williams,1986,Retail,"North Martha, NY",7487,7166.44
+62,Fisher LLC,1952,Manufacturing,"Monroemouth, WI",3644,7801.2
+63,"Leach, Schmidt and Vaughn",2013,Retail,"Lake Jerry, GA",19744,4065.59
+64,"Haley, Hart and Klein",2012,Manufacturing,"Galvanport, WY",19222,2836.21
+65,"Miller, Jones and Palmer",1989,Retail,"Mcdonaldstad, CA",2995,9351.89
+66,Wallace-Watson,1956,Retail,"Lake Pamelabury, MA",16540,2529.42
+67,Hicks-Morris,1953,Finance,"Nixonview, KY",18976,5579.62
+68,"Stewart, Richardson and Myers",2009,Healthcare,"Danielleborough, DE",19989,3882.52
+69,Perez PLC,1950,Technology,"Port Justin, CT",16610,9614.35
+70,Thompson Inc,2022,Retail,"Ellenberg, MO",3187,2848.07
+71,White LLC,1987,Technology,"Port Sandra, WV",16782,8355.78
+72,"Faulkner, Roberts and Smith",2008,Healthcare,"North Kristen, CT",5755,4244.18
+73,Rodgers-Moran,1959,Finance,"Kevinfort, AR",17449,478.51
+74,"Elliott, Jones and Brewer",2013,Technology,"South Richardview, DE",2983,3294.96
+75,Hale Ltd,1961,Retail,"Port Leahchester, MD",1860,324.42
+76,"Gallegos, Guzman and Martinez",1974,Healthcare,"New Ryan, SC",13435,8962.56
+77,Phillips Group,1951,Manufacturing,"East Troytown, NV",323,5043.85
+78,Watts LLC,1977,Food & Beverage,"New Jennachester, NJ",4741,9308.33
+79,Young-Mcgee,1959,Healthcare,"West Emily, RI",11130,57.01
+80,"Perez, Martinez and Calderon",2022,Finance,"South Jonathanburgh, NH",18061,7821.76
+81,"Mcintyre, Farmer and Saunders",1966,Manufacturing,"East Daniel, GA",17128,4817.25
+82,Davila-Tyler,1999,Retail,"Jessicashire, PA",12681,5239.38
+83,Ward-Richardson,2004,Manufacturing,"Kristiberg, IN",2859,5139.87
+84,King-Salinas,2003,Finance,"North Jeremiah, WV",12160,2691.23
+85,Cole-Townsend,1952,Technology,"Port Sarahhaven, OR",18917,5965.32
+86,Hill PLC,2007,Manufacturing,"Williamside, ND",12842,3145.14
+87,"Morrison, Perez and Allen",1955,Manufacturing,"East Charleschester, MS",14058,1706.94
+88,Campbell-Porter,1966,Retail,"Lake Johnville, NY",3021,7771.7
+89,Coleman and Sons,1975,Healthcare,"East Aprilton, KY",5466,4393.31
+90,Nelson-Daniels,1951,Finance,"Christopherfort, MA",8203,6364.08
+91,"Washington, Morris and Wells",1988,Manufacturing,"Pattersonberg, OK",18660,8354.07
+92,Dennis-Soto,2011,Retail,"North Gregory, MD",19125,4377.09
+93,Singleton-Phelps,1955,Food & Beverage,"Cantufort, AL",9652,7720.2
+94,"Wood, Sawyer and Foster",1970,Healthcare,"East Christina, RI",17136,3418.38
+95,Tyler Ltd,2014,Finance,"Barrhaven, HI",6225,2658.7
+96,Cooper-Martinez,2003,Manufacturing,"Lawrenceland, NV",5482,4150.69
+97,Vega Group,1978,Retail,"Lake Derrickmouth, GA",1696,2633.24
+98,Esparza-Cantu,1963,Retail,"Briantown, LA",9679,7787.15
+99,"Stephens, Garcia and Griffin",1968,Food & Beverage,"Ryanborough, MD",4307,1868.69
+100,Powell-Thomas,2019,Retail,"Bennettview, MT",944,4447.52
+101,Schneider LLC,1998,Food & Beverage,"North Pamelafurt, LA",6934,4986.54
+102,Tran Group,1978,Food & Beverage,"Robertville, CA",595,8330.71
+103,Lewis-Diaz,2021,Healthcare,"North Juliashire, MN",2996,3192.93
+104,Barnes-Bryant,2016,Healthcare,"East Vernon, LA",4810,8133.14
+105,Boyd Ltd,1967,Manufacturing,"Port Kevinfort, MI",5636,1759.07
+106,Nelson LLC,1953,Finance,"East Kevinhaven, DE",10881,4282.73
+107,Goodman-Jones,1971,Food & Beverage,"Port Coreymouth, CO",16060,3882.82
+108,"Smith, Ray and Harris",2018,Manufacturing,"East Anthonyport, DE",12266,5122.78
+109,"Rodriguez, Salazar and Smith",1997,Healthcare,"Dayport, CT",5253,8498.58
+110,Rush-Adams,2013,Retail,"Pamelaberg, MN",11723,448.2
+111,Beard-Lucas,1964,Finance,"Ingramburgh, MA",6546,3315.39
+112,Kramer and Sons,1997,Technology,"Leemouth, AZ",10756,8921.28
+113,Lewis Group,1980,Healthcare,"Greenview, OK",9838,5541.67
+114,Watts PLC,1972,Manufacturing,"New Jamesborough, IA",5577,7621.5
+115,"Sanchez, Lee and Hall",1950,Technology,"New Melindaborough, WV",15913,9758.77
+116,Moore-Knight,1956,Finance,"East Donaldland, TX",4299,8991.67
+117,Barrett LLC,1996,Food & Beverage,"Halemouth, NJ",7156,6548.25
+118,"Mason, Miller and Giles",2019,Manufacturing,"Kentburgh, ID",16439,8504.43
+119,Foster and Sons,1980,Food & Beverage,"Smithberg, HI",3377,1450.4
+120,"Lewis, Davis and Ayala",2022,Food & Beverage,"Ronnieview, CT",6087,5895.5
+121,"Webb, Fuentes and Hall",2012,Manufacturing,"Paulchester, WA",9117,6014.19
+122,Jennings-Webb,1951,Technology,"Lake Steven, HI",7063,6700.75
+123,Lynch Group,1957,Food & Beverage,"Smithland, MI",2689,2145.12
+124,Lewis-Hayes,1978,Healthcare,"Port Toni, KS",10037,1867.78
+125,Harris-Parks,2007,Manufacturing,"Lawrenceshire, TN",11264,1279.48
+126,"Cole, Pacheco and Williams",1962,Retail,"West Justinchester, NJ",5229,2395.01
+127,Gonzalez Group,1958,Technology,"Lake Michaelside, TX",3045,9109.7
+128,"Mcmillan, Stephens and Johnson",2009,Finance,"Lake Kathleenside, LA",18917,8827.74
+129,"Mason, Harris and Mann",1983,Finance,"Jimmyberg, MO",3064,5059.9
+130,Mercer PLC,2002,Food & Beverage,"New Kaylaport, WY",8400,9003.52
+131,"Greene, Bates and Richard",1977,Manufacturing,"South Erik, MI",6017,4100.96
+132,James Group,1975,Healthcare,"Hoganshire, ME",17639,5881.55
+133,"Rodriguez, Jackson and Smith",2019,Manufacturing,"Martinview, WY",13975,8284.68
+134,Morris and Sons,1969,Finance,"East Rebecca, WI",6001,103.87
+135,"Snyder, Oliver and King",1978,Finance,"South Christopherside, NE",9394,6469.1
+136,Bush Ltd,1971,Finance,"New Jimmyshire, WI",3732,2176.7
+137,Powell Ltd,2011,Retail,"East Hannahfurt, MO",11534,3435.13
+138,"Ochoa, Smith and Ward",1993,Retail,"New Michelleport, GA",7735,7992.4
+139,Lopez-Mitchell,1987,Manufacturing,"Harrisshire, TX",1389,7118.28
+140,"Glover, Martinez and Lang",1968,Healthcare,"South Keithberg, ND",18345,5893.04
+141,"Calderon, Meyer and Gaines",1989,Technology,"Brianfort, NY",16955,5417.4
+142,Nguyen and Sons,1954,Healthcare,"Denisefurt, NE",6135,4679.18
+143,Mcguire-Hernandez,1980,Healthcare,"West Michelle, NV",9667,4547.02
+144,Moody Inc,2001,Retail,"Chadshire, VA",12165,8470.04
+145,Smith-Chapman,2005,Technology,"Pennybury, SC",12818,5687.43
+146,Parks-Berry,1971,Healthcare,"New Adam, NC",16032,4635.75
+147,Graham and Sons,1951,Healthcare,"Waltershaven, AZ",670,7927.1
+148,Castillo Inc,1992,Finance,"Lake Benjamin, TN",3383,2700.82
+149,French-Gallegos,1980,Finance,"Rogersfort, IL",2575,4267.52
+150,"Henry, Rush and Russo",2012,Manufacturing,"North Oscar, WA",12191,4126.37
+151,"Smith, Torres and Smith",1954,Manufacturing,"Lake Dawn, NV",13844,2077.03
+152,"Gutierrez, Myers and Ferguson",1951,Technology,"Darrylland, ND",12480,3048.84
+153,Hammond and Sons,1998,Food & Beverage,"New Carolhaven, TX",13084,719.86
+154,"Sanchez, Snyder and Bishop",1988,Manufacturing,"South Ashley, VA",16748,2284.4
+155,Garcia-Rice,1956,Finance,"Mirandafort, ND",6298,5720.84
+156,Lloyd Ltd,2013,Manufacturing,"North Nicole, TN",5690,6130.63
+157,Thompson-Skinner,1985,Manufacturing,"West Vanessa, VT",6831,8978.94
+158,Gomez-Little,1952,Manufacturing,"Marytown, MI",6516,9243.81
+159,Smith-Miller,1956,Food & Beverage,"Keithfort, KY",6503,2180.05
+160,"Aguilar, Avila and Reeves",1952,Finance,"Brentchester, TN",4313,1280.1
+161,"Anthony, Hess and Baird",1999,Healthcare,"Thomastown, GA",8432,9139.39
+162,Johnson LLC,1995,Food & Beverage,"West Jessica, OH",18299,9565.94
+163,Weiss-Roberts,2013,Technology,"Jenningsmouth, AK",16281,4732.87
+164,"Fox, Rodriguez and Price",1966,Retail,"East Brittney, SC",11375,2640.4
+165,Conley-Watkins,2010,Finance,"Seanport, NE",5591,8956.41
+166,"Howell, Ballard and Oliver",1950,Food & Beverage,"North Nicholasstad, OR",103,7959.7
+167,Hoffman Ltd,2021,Healthcare,"West Stephanie, ID",10013,7006.5
+168,"Brown, Galloway and Gordon",2019,Retail,"East Sarahfort, PA",4894,5521.4
+169,"Davis, Pope and Guerra",2015,Technology,"Lake Michael, MS",6615,1217.1
+170,Smith Inc,2004,Healthcare,"Greenshire, MS",17659,1795.21
+171,Banks-Armstrong,2007,Manufacturing,"East Tylermouth, LA",1218,2547.76
+172,"Johnson, Mullins and Reyes",2013,Technology,"Cruzburgh, MT",6298,1076.93
+173,Little-Burke,1956,Manufacturing,"East Donside, HI",1919,7665.3
+174,Mendoza Ltd,2021,Technology,"Johnsonshire, OH",8276,6711.19
+175,Hamilton PLC,2022,Retail,"North Anthonyside, AZ",12224,5930.05
+176,Henderson-Jordan,1989,Manufacturing,"West Andres, NV",15741,1601.67
+177,Charles PLC,2016,Retail,"New Devin, PA",7448,8424.85
+178,Baker-Hayes,1969,Food & Beverage,"North Jason, VT",936,5594.81
+179,"Wolf, Macias and Miller",1984,Finance,"South Sarah, MS",6159,2687.35
+180,Parks-Shaw,1968,Healthcare,"Davisborough, DE",7849,8609.79
+181,Wood LLC,1998,Finance,"East John, OH",11903,3445.39
+182,"Trevino, Nguyen and Shepherd",2022,Food & Beverage,"North Suebury, TN",12821,2897.25
+183,"Goodman, Davidson and Hernandez",1998,Finance,"Lake Lauren, OK",17488,5150.39
+184,"Huffman, Rodriguez and Ramirez",1960,Healthcare,"East Nicole, ND",3434,4823.49
+185,"Diaz, Smith and Holt",2017,Food & Beverage,"East Billy, KS",13842,4407.99
+186,Clarke-Munoz,1993,Finance,"East Kevin, AZ",8608,4391.84
+187,Washington Ltd,1983,Food & Beverage,"West Jason, MD",11013,9300.52
+188,Jones-Bird,1995,Manufacturing,"Jamesstad, UT",211,2894.9
+189,"Quinn, Williams and Le",1959,Technology,"Port Lauren, NE",6446,4558.3
+190,"Pacheco, Adams and Melendez",1959,Healthcare,"West Brittanyland, AZ",91,7227.15
+191,Kelly-Robinson,2010,Food & Beverage,"Michaelchester, SC",10275,628.77
+192,Ramos Ltd,2004,Finance,"North Patricia, DE",14668,8334.72
+193,Hester LLC,2021,Technology,"North Austin, NJ",870,8959.05
+194,Reed-York,2004,Retail,"West Kevin, CO",1188,6695.57
+195,Powell-Mata,1993,Technology,"North Clifford, TX",6993,4907.14
+196,Alexander PLC,1976,Finance,"East Shannon, OK",14423,9546.67
+197,James-Charles,1987,Technology,"Williamschester, HI",3878,5643.82
+198,Chavez LLC,1978,Healthcare,"Erikahaven, WI",1667,5155.68
+199,"Armstrong, Nichols and Underwood",2008,Finance,"Gordonland, DE",2845,7371.0
+200,Fleming and Sons,2008,Technology,"Hollymouth, WV",3048,2093.09
+201,Madden PLC,1981,Healthcare,"New Derek, MN",8723,4655.55
+202,Ellis Group,1979,Healthcare,"Deborahstad, OH",19376,395.97
+203,Williams Inc,1951,Retail,"Williehaven, NH",12050,2037.03
+204,Brown-Luna,1959,Manufacturing,"North William, MO",6233,7067.43
+205,"Wells, Miller and Cook",1966,Healthcare,"Gomezburgh, IA",6058,3976.91
+206,Werner-Carr,1966,Healthcare,"Andersonshire, NH",827,3753.02
+207,"Miller, Davis and Hayes",2021,Technology,"South Gloria, PA",11376,8539.22
+208,Brewer-Martinez,1961,Finance,"Lake Christianburgh, LA",10507,8084.71
+209,Lopez Ltd,1964,Retail,"Christopherview, MS",16227,5444.03
+210,Morgan Group,2007,Manufacturing,"Lake Lauren, CO",11638,3017.44
+211,"Smith, Finley and Holmes",1966,Manufacturing,"West Nicolefurt, NH",16436,4889.6
+212,"Mason, Gonzalez and Lamb",1963,Food & Beverage,"Christophermouth, WI",1436,6325.77
+213,Ashley-Johnson,1996,Manufacturing,"Johnmouth, CO",6264,7246.15
+214,Mcdaniel-Evans,1994,Healthcare,"North Autumn, SC",4041,7079.19
+215,"Baker, Allen and Bailey",1985,Finance,"South Linda, WA",5740,2056.38
+216,Washington-Wise,2020,Technology,"Lake Patriciaburgh, DE",9138,5909.71
+217,Taylor-Shields,2006,Technology,"Tapiamouth, TX",10329,3453.04
+218,White-Craig,2020,Retail,"East Kevin, GA",9843,6697.7
+219,"Johnson, Brown and Branch",1951,Food & Beverage,"New Carlosfurt, CA",12386,4318.4
+220,Schultz PLC,1957,Finance,"Melissaburgh, MA",10083,9648.61
+221,Bailey and Sons,1976,Manufacturing,"Lake Cynthiaton, KY",10507,9161.79
+222,Barton Ltd,1962,Healthcare,"Colemanberg, SD",8761,2052.72
+223,"Conner, Koch and Collins",1984,Healthcare,"Tracymouth, DE",19164,7110.35
+224,Lloyd-Wilson,1994,Healthcare,"Victoriaville, NH",18170,9282.46
+225,"Morrison, George and Gilbert",1989,Healthcare,"Wellsland, IN",14235,7477.41
+226,Hood-Harris,1956,Manufacturing,"Port Jennifer, NV",19560,710.56
+227,"Hansen, Thompson and Jackson",2018,Finance,"Port Teresa, UT",12548,9524.4
+228,Franklin Inc,2017,Healthcare,"East Chadfurt, WA",13742,3088.45
+229,Mitchell-Brown,1987,Food & Beverage,"Lake Zachary, ND",17841,4053.38
+230,Cruz-Sullivan,2007,Healthcare,"New Adam, AK",18441,181.68
+231,"Barber, Archer and Gallagher",1950,Technology,"East Paulberg, IN",6331,7513.19
+232,"Sheppard, Callahan and Costa",2019,Food & Beverage,"East Davidchester, AL",14328,9436.49
+233,Russell Inc,1985,Food & Beverage,"Briannaburgh, NY",9552,1660.2
+234,Cook-Reyes,2003,Healthcare,"Phelpsport, WY",18784,5093.78
+235,Knight and Sons,1992,Finance,"West Curtisville, PA",18644,8401.17
+236,Ayala-Zhang,2017,Retail,"Yangport, NJ",16709,3846.29
+237,Riley-Barnes,2002,Finance,"New Brandon, PA",3708,2943.62
+238,Johnson-Cox,2007,Healthcare,"Lisaborough, LA",7652,5204.51
+239,"Gardner, Erickson and Gay",2015,Technology,"South Carl, TN",14910,5346.26
+240,"Brewer, Cook and Steele",1953,Technology,"West Jessicaborough, MT",13829,6202.32
+241,Skinner-Allen,1983,Manufacturing,"North Gary, RI",9975,4254.57
+242,"Armstrong, Koch and Brown",1996,Technology,"Petermouth, ID",18425,1823.32
+243,"Ware, Osborne and Parker",2005,Technology,"South Danielleview, SC",4526,4855.82
+244,Griffin Ltd,1983,Technology,"Randychester, NM",18149,7638.0
+245,Kirby-Price,1988,Finance,"Michaelchester, GA",2867,4673.97
+246,"Martin, Duarte and Daniels",2012,Retail,"West Patriciaview, GA",2056,8969.79
+247,Gonzalez-Davis,1997,Healthcare,"Port Alexport, NY",3828,6893.76
+248,Newton-Carter,2003,Manufacturing,"Brownton, NV",10206,9898.48
+249,Johnson Inc,1999,Finance,"Port Richard, OK",16485,7440.76
+250,Butler-Lambert,1990,Manufacturing,"New Jodiport, AR",7886,4494.52
+251,"Hanson, Stevens and Reid",2019,Technology,"Rayshire, OK",6066,5385.1
+252,Ortiz Ltd,2018,Technology,"Berryberg, CO",9377,5866.29
+253,Gould-Lee,1970,Finance,"West Kelly, MN",8859,9883.33
+254,Wilson PLC,2022,Finance,"Smithborough, KY",7420,7338.17
+255,"Morgan, Chandler and Garcia",1999,Food & Beverage,"North Veronica, CT",19322,8875.74
+256,Mclean Ltd,1999,Finance,"Port Brettview, CO",18628,9313.46
+257,"Perez, Gay and Burke",1977,Food & Beverage,"Avilafort, MI",271,5260.41
+258,"Lewis, Huerta and Taylor",1999,Retail,"Curtiston, IN",10272,5832.13
+259,"Hodge, Garrison and Sloan",2007,Technology,"Jennifershire, HI",4207,1121.3
+260,"Obrien, Williams and Baker",1952,Manufacturing,"Martinport, OH",1447,5909.67
+261,Scott-Cisneros,1965,Manufacturing,"North Jeremy, NE",19135,9365.4
+262,Peterson Group,1974,Food & Beverage,"New Nicole, NH",16865,3810.05
+263,Ho-Brown,2012,Food & Beverage,"Ericahaven, ND",15089,5177.31
+264,Johnson-Johnson,1978,Retail,"West Lori, AL",19806,8610.32
+265,"Hopkins, Walters and Hernandez",1955,Food & Beverage,"New Donald, TX",12695,9087.1
+266,Pham-Myers,1981,Healthcare,"Erinville, OR",854,7771.83
+267,Gilbert-Olson,2018,Food & Beverage,"Shellyhaven, KY",15487,4745.86
+268,Wagner-Thompson,1951,Finance,"Erinberg, IL",1646,3028.2
+269,"Martinez, Randall and Jones",1954,Manufacturing,"North Iantown, AZ",16102,2495.1
+270,Fox-Johnson,2004,Food & Beverage,"Vegaville, LA",8977,9406.52
+271,"Jackson, Dyer and Sanchez",2014,Retail,"Lake Johnside, ID",1198,2790.95
+272,"Shelton, Henderson and Henry",1995,Technology,"Port Dianahaven, MI",882,2107.87
+273,Warren Inc,1957,Food & Beverage,"Marquezside, MT",8505,1983.72
+274,Wiggins-Baker,2020,Manufacturing,"East Christinahaven, MD",13485,209.23
+275,Weaver Inc,2021,Technology,"New Robin, NM",16695,3661.08
+276,Leon LLC,1969,Manufacturing,"Lake Michaelport, OH",5360,6192.58
+277,Sanchez-Anderson,1977,Technology,"Johnsonshire, NJ",4956,6007.83
+278,"Adams, Dixon and Collins",1972,Healthcare,"North Faithshire, IN",13116,8534.68
+279,Hamilton Ltd,1967,Food & Beverage,"East Zachary, AL",1061,3730.76
+280,Lamb-Stone,2019,Healthcare,"Gonzalezland, SC",7957,6042.39
+281,Thomas-Oneal,1960,Retail,"West Gregoryside, MD",938,4731.78
+282,Thompson Ltd,1965,Manufacturing,"Lake Lauraside, KY",13476,4909.51
+283,"Romero, Ellis and Wilkinson",1994,Retail,"Deniseville, MI",10973,2314.52
+284,"Norman, Dickerson and Moore",1963,Retail,"Avilamouth, MO",1944,2534.69
+285,Price-Jackson,2020,Retail,"South Michaelside, WI",7415,948.78
+286,Stone Group,1955,Finance,"East Monica, MS",4910,5228.46
+287,"Jones, Lang and Harper",1955,Manufacturing,"Christopherview, WI",16968,8095.43
+288,"Sandoval, Wilson and Barnett",1989,Retail,"South Micheleton, AZ",14683,6067.82
+289,Fuller Group,1995,Technology,"Anthonyland, OR",9631,4195.39
+290,Carter Group,1997,Food & Beverage,"South Patrick, OH",8127,389.65
+291,Gregory-Henry,1979,Healthcare,"Marymouth, ID",8190,3309.25
+292,Moore-Davis,1963,Food & Beverage,"New Deborahton, LA",11380,6786.36
+293,"Brown, Rivera and Barron",1962,Technology,"Lake Joe, AR",5064,1883.69
+294,Cook and Sons,1994,Finance,"New Heathermouth, PA",17410,7274.94
+295,"Buchanan, Cox and Taylor",2009,Technology,"Henrymouth, MI",7356,1991.87
+296,Baker-Williams,1992,Manufacturing,"South Juan, OK",9189,4793.69
+297,Olsen Inc,1985,Finance,"Lake Bruce, VT",8089,8936.81
+298,Bailey Ltd,2016,Finance,"New Evanborough, KY",5395,5178.47
+299,Campos PLC,1978,Finance,"Leachbury, WA",5340,3667.9
+300,Campbell Group,1990,Manufacturing,"Aprilland, FL",4854,557.15
+301,Ortiz and Sons,2012,Healthcare,"East Joelview, RI",8426,7095.78
+302,Hernandez-Deleon,1982,Healthcare,"Rachelborough, GA",9911,45.29
+303,"Brooks, Liu and Thomas",1972,Technology,"North Mistybury, MI",2838,9014.65
+304,Goodwin-Bailey,1998,Technology,"New Bradley, TX",5658,5613.32
+305,Holmes PLC,1952,Technology,"Phillipsburgh, SC",14006,5665.34
+306,"Miller, Kane and Morris",1991,Manufacturing,"West Frankport, RI",5743,6059.68
+307,"Collins, Johnson and Thompson",1952,Healthcare,"Hickmanmouth, FL",6766,6352.85
+308,Ward-Morgan,1966,Food & Beverage,"Port Johnny, ND",17386,718.47
+309,"Burton, Gilbert and Hernandez",1988,Finance,"North Gloria, MA",6093,8947.85
+310,Smith PLC,2005,Retail,"Ashleytown, NH",4877,723.04
+311,Gould-Graham,1982,Food & Beverage,"South Justin, LA",19071,8073.06
+312,Weaver-Marshall,1959,Retail,"Dawnhaven, DC",16690,9679.19
+313,Ware-Stephens,1953,Technology,"South Daniel, PA",18745,8112.02
+314,"Barron, Villanueva and Durham",1961,Retail,"New Patricia, NH",13478,7174.41
+315,"Smith, Jordan and Sullivan",2011,Manufacturing,"Riveratown, OR",3476,791.57
+316,Day Ltd,2014,Healthcare,"Rodriguezburgh, HI",261,6976.52
+317,Simpson-Mccann,2017,Retail,"Port Christy, ME",8128,1878.83
+318,"Jones, Cooley and Acosta",2002,Food & Beverage,"West Thomas, FL",18130,2303.78
+319,Bush PLC,2014,Food & Beverage,"Port Laura, MD",19146,6114.15
+320,"Baker, Turner and Morris",1961,Retail,"Lake Elizabeth, DC",17548,9240.66
+321,"Garrett, Johnson and Martin",1988,Retail,"Gregorybury, MD",5436,8972.63
+322,Richards-Jimenez,2017,Healthcare,"North Jessica, AK",4377,5451.66
+323,Alexander Inc,2014,Manufacturing,"Johnsonfurt, FL",9106,5317.06
+324,Perez-Smith,2010,Finance,"West Sabrina, WI",13763,7198.55
+325,Davis-Bradford,1952,Healthcare,"Port Melissachester, WV",13764,1175.64
+326,Thompson-Romero,1961,Retail,"Port Thomas, IN",7635,7698.16
+327,Wiggins-Farley,2008,Food & Beverage,"Tuckerville, MN",9775,2117.51
+328,"Chaney, Graves and Williams",2009,Manufacturing,"Michaelburgh, IA",4886,943.68
+329,Taylor-Cohen,1984,Manufacturing,"Joshuafurt, IN",11943,4904.86
+330,Pearson-French,1983,Healthcare,"Janetbury, WI",17137,2684.13
+331,Dawson-Park,2016,Retail,"Mistyfurt, SD",5963,3790.69
+332,"Allen, Leonard and Pitts",1981,Food & Beverage,"North Matthew, DC",17710,1410.31
+333,"Conley, Johns and Davis",2006,Finance,"Smithshire, IA",8858,2003.6
+334,Franco-Wallace,2016,Retail,"Lake Jeanmouth, WA",4728,9215.69
+335,"Hanna, Moreno and Frost",1967,Finance,"North Jill, MA",10638,7192.65
+336,"Mcdowell, Carlson and Green",2017,Retail,"New Tina, FL",7230,4394.88
+337,Jones-Bowers,2021,Food & Beverage,"Sandersview, WA",4098,533.9
+338,Green-Booker,1967,Technology,"New Susan, NV",15428,5411.28
+339,Smith-Bell,1996,Food & Beverage,"Markchester, FL",16417,732.11
+340,"Lee, Scott and Davis",2018,Food & Beverage,"Gailfort, FL",4741,3183.35
+341,Logan-Jenkins,2020,Retail,"New Benjaminside, MO",11322,2035.39
+342,"Williams, Smith and Morgan",2013,Technology,"Amyhaven, DC",13729,2854.81
+343,"Barker, Romero and Miller",1987,Food & Beverage,"East Marcus, FL",9413,9292.95
+344,"Lee, Bridges and Richardson",2018,Technology,"Port Angela, HI",16917,568.07
+345,"James, Brown and Anderson",1998,Healthcare,"New Jack, NJ",18770,1905.64
+346,Jensen LLC,1958,Food & Beverage,"West Christinaland, OH",14602,5315.01
+347,Shaw PLC,1977,Food & Beverage,"Lawrenceport, MS",12520,8384.14
+348,Perez PLC,1958,Food & Beverage,"Wangborough, OR",19667,659.27
+349,Velazquez Ltd,1974,Healthcare,"Woodsville, CO",17501,1882.68
+350,Armstrong Group,2016,Finance,"Howellton, CA",1062,3389.87
+351,Brooks-Bush,1969,Food & Beverage,"Thomaschester, MS",16636,2167.49
+352,Martinez-Bell,1974,Healthcare,"Lake Kennethborough, MI",14804,3244.24
+353,Stewart-Buckley,1960,Manufacturing,"Randyburgh, VA",6676,7433.09
+354,Ramirez Ltd,2012,Technology,"New Edward, AK",18452,1439.63
+355,Sims Ltd,2005,Healthcare,"Port Erika, PA",5583,1231.99
+356,Norton-Garcia,1974,Manufacturing,"Robertland, MD",17211,2993.23
+357,"Jones, Gomez and Short",1999,Technology,"Lake Christopher, OR",2312,1872.63
+358,Ortiz-Hoffman,1996,Retail,"Hicksport, VT",19618,2495.98
+359,Mason Inc,1953,Technology,"Huntborough, NJ",11108,4947.2
+360,Wong-Archer,1959,Healthcare,"Port Robertburgh, NE",10159,6985.61
+361,"Diaz, Edwards and Beltran",1954,Retail,"East Sarah, OH",1245,168.23
+362,"Ray, Thompson and Price",1956,Technology,"North Tonya, KY",11415,8425.6
+363,Martin Group,1975,Food & Beverage,"Georgeside, UT",4126,437.63
+364,Anderson-Bailey,2005,Manufacturing,"Juliebury, DC",7351,973.55
+365,Harmon-Ramirez,2003,Food & Beverage,"Barbaramouth, OR",17835,1719.03
+366,Richard-Turner,1981,Food & Beverage,"Timothyland, WV",16332,8907.44
+367,Spencer LLC,1951,Retail,"Crossburgh, NE",5988,6060.06
+368,"Edwards, Copeland and Johnson",1984,Retail,"Freemanport, WV",5119,690.59
+369,Stewart-Brown,1957,Technology,"Powellside, NY",6545,5316.54
+370,"Murray, Smith and Taylor",2014,Manufacturing,"Lake Brianview, WA",12941,2399.49
+371,Poole-Miller,1985,Retail,"New Davidside, GA",2668,9372.69
+372,Hall Inc,1960,Food & Beverage,"North Taramouth, MI",11206,7524.23
+373,Wilson and Sons,2007,Technology,"East Kimhaven, MD",14326,5538.54
+374,Jones and Sons,1981,Finance,"Kennedystad, SD",19899,890.44
+375,Shaw and Sons,2004,Food & Beverage,"Angelaville, MD",18189,1555.11
+376,"Johnson, Lin and Hobbs",1991,Technology,"Kimberlyhaven, NC",18795,3475.13
+377,"Potter, Odom and Smith",2016,Healthcare,"Sarahside, SD",13587,6574.1
+378,Clark Ltd,2010,Food & Beverage,"Jamesview, WY",3928,6572.53
+379,Ford LLC,1988,Manufacturing,"Hernandezmouth, DC",10199,1197.73
+380,Mitchell-Garcia,1984,Manufacturing,"Nunezton, AR",8593,4211.33
+381,Garcia-Dickson,2000,Retail,"Port Jonathan, NC",9309,4163.77
+382,Brown Ltd,1971,Healthcare,"Elizabethchester, AZ",12711,4322.9
+383,Odonnell Ltd,1963,Finance,"North Gina, LA",14393,223.41
+384,"Fields, Martinez and Roberts",1983,Healthcare,"Turnerport, OK",3933,1857.35
+385,Smith PLC,1977,Technology,"Gabriellaport, FL",828,1700.85
+386,Wood Group,1972,Technology,"North Felicia, MT",5930,429.74
+387,Blair-Rodriguez,1982,Technology,"South Susan, NJ",18028,3924.41
+388,House and Sons,1988,Finance,"Jamesville, ID",9304,9686.08
+389,"Garcia, Higgins and Harris",1971,Finance,"New Shariview, HI",135,6862.17
+390,Davis Inc,1997,Food & Beverage,"South Natalie, CA",18616,9359.17
+391,"Mcpherson, Wilson and Harris",1956,Healthcare,"Port Paulside, GA",10232,8679.42
+392,Pham-Boyd,1963,Finance,"Port Christopherfurt, MO",6286,2995.66
+393,Thomas Ltd,2018,Technology,"South Daniel, GA",6189,8440.49
+394,"Perez, Mann and Johnson",1993,Technology,"Lake Rebeccaland, PA",4897,82.01
+395,"Williamson, Johnston and Cox",1962,Manufacturing,"East Kelsey, OH",17636,2485.07
+396,Hernandez LLC,1973,Manufacturing,"West Bobby, WA",18186,3075.66
+397,Munoz Ltd,1952,Technology,"Lake Michelleton, MN",2655,2887.08
+398,Nguyen Ltd,1969,Finance,"Ryanville, UT",16157,9801.74
+399,"Smith, Mendez and Williams",2005,Food & Beverage,"Jodiberg, ID",19728,5372.23
+400,Shea-Jones,1962,Manufacturing,"Pughton, AL",12007,5786.89
+401,"Smith, Stevenson and Allen",1975,Finance,"Port Paula, NJ",19380,2107.39
+402,Barnes Group,2022,Manufacturing,"Nathanville, DE",15104,9606.54
+403,Martin-Roberts,1991,Technology,"North Charles, OH",15533,753.01
+404,Rodriguez Group,1995,Technology,"Rodriguezborough, OK",1360,4087.26
+405,Chung Ltd,2014,Manufacturing,"New Michellemouth, VT",10552,4433.52
+406,Lewis-Gonzalez,2021,Manufacturing,"South Danieltown, CA",1540,6345.27
+407,Freeman Inc,1973,Food & Beverage,"West Patriciatown, LA",1287,5801.95
+408,"Lopez, Young and Johnson",1989,Retail,"Port Carolmouth, KY",2088,5636.55
+409,Clayton-Alvarez,1998,Healthcare,"Lake Matthewborough, CA",18834,2206.65
+410,Riley-Dominguez,1978,Healthcare,"Blakeville, MO",6364,4565.67
+411,Smith-Murray,1995,Retail,"Dominguezmouth, WV",3895,1708.98
+412,Crawford-Grant,2018,Finance,"South Brittany, WA",7295,5752.12
+413,"Lopez, Smith and Garrett",2009,Retail,"Lake Tammyburgh, LA",13986,2978.66
+414,"Curtis, Wilkerson and Bender",1975,Retail,"East Daniel, OK",7445,6067.56
+415,Ross Ltd,2000,Healthcare,"Williamsbury, IA",17075,2462.15
+416,Rice PLC,1984,Retail,"Holdenhaven, NV",12118,9746.77
+417,White-Brady,1969,Finance,"Archerview, HI",12480,6966.2
+418,Mcdowell Inc,1979,Healthcare,"New Joshua, NJ",9447,7734.59
+419,"Lee, Duncan and Norris",2003,Technology,"Coleton, WV",4693,9360.76
+420,Patrick-Cox,1957,Retail,"South Rachel, MI",19999,8604.36
+421,Rivera-Petty,1969,Retail,"Kylechester, OH",6689,2748.64
+422,Cunningham PLC,2011,Finance,"Nolanbury, VA",7281,2791.9
+423,Jones Group,1961,Technology,"Derekfurt, WV",8638,8614.35
+424,"Wilson, Bennett and Pennington",1966,Finance,"Wellsfort, AL",3082,5290.15
+425,Combs Ltd,1977,Retail,"Kellyview, OH",8139,6595.14
+426,Allen Inc,1980,Finance,"Sarabury, CT",8274,2589.6
+427,"Terry, Graves and Robinson",2021,Food & Beverage,"Phillipsfurt, MO",12463,3025.46
+428,Foster-Henry,1991,Retail,"West Mariaburgh, AR",17398,9391.14
+429,Hayes-Wolf,2007,Healthcare,"Moniquechester, NY",284,711.55
+430,Huff Group,2013,Retail,"Miguelburgh, NH",8712,9810.28
+431,"Wright, Jimenez and Miller",2021,Technology,"East Kenneth, KS",7660,1700.85
+432,Moore and Sons,1983,Food & Beverage,"New Jason, WY",9892,6119.03
+433,"Martin, Miranda and Mann",1997,Food & Beverage,"South Kaitlinport, NC",5218,1012.75
+434,Schneider and Sons,1981,Manufacturing,"Lake Karenburgh, NE",11909,4610.68
+435,Fry-Wilson,2015,Manufacturing,"West Jose, AK",18036,1451.94
+436,Smith LLC,1971,Food & Beverage,"New Joshua, MD",11697,6328.04
+437,Wilson Ltd,2010,Manufacturing,"Annetteton, MA",10009,8892.58
+438,Reid and Sons,1983,Food & Beverage,"Cooperport, MA",3044,1109.21
+439,Olson PLC,2009,Retail,"Port Albert, NH",16418,8833.66
+440,"Vasquez, Olson and Jones",1996,Technology,"Danielland, WV",15902,1903.72
+441,Meadows-Henson,1979,Food & Beverage,"Garciaberg, MA",14337,5633.57
+442,"Alvarado, Thomas and Davis",1984,Healthcare,"Briannamouth, GA",9874,325.78
+443,Nunez-Zhang,1984,Technology,"West Garyland, TX",284,1165.64
+444,Duncan Ltd,1994,Food & Beverage,"Lake Valerieberg, NE",9304,5228.15
+445,"Kane, Willis and Salinas",1983,Manufacturing,"East Kelly, NV",6199,7741.87
+446,"Guzman, Brown and Nelson",1979,Manufacturing,"Douglasfort, WA",2701,1361.72
+447,Frederick LLC,2004,Finance,"Kingstad, IA",6664,607.07
+448,Macdonald-Santana,1950,Healthcare,"Montgomeryberg, SD",4563,1988.59
+449,Rivas-Wolf,1974,Technology,"Jordanton, KS",6059,4331.8
+450,Myers LLC,1966,Food & Beverage,"East Kristinashire, AL",9835,4596.47
+451,"Elliott, Davis and Brown",2011,Manufacturing,"Lake Cynthiamouth, NY",7779,9880.6
+452,"Caldwell, Weber and Edwards",1968,Retail,"North Matthewbury, RI",2919,379.96
+453,"Nelson, Dawson and Kramer",1994,Food & Beverage,"Joshuachester, CT",3558,3624.28
+454,Roberts-Robinson,1994,Finance,"East Aprilfurt, MS",7148,1119.14
+455,"Mendez, Sanchez and Rodriguez",1958,Manufacturing,"Brittanyview, VT",1605,8421.89
+456,Franklin-Ferrell,1957,Healthcare,"Richardchester, TX",276,3144.5
+457,Lynn-Clayton,1974,Technology,"South Lisaside, WY",2090,8675.76
+458,Martin and Sons,1972,Healthcare,"Port Kenneth, AZ",8734,8841.06
+459,Scott-Knight,1950,Retail,"Douglasmouth, HI",6016,6014.68
+460,Jenkins and Sons,1994,Finance,"New Dawnmouth, CA",11783,3732.66
+461,"Montoya, Meyer and Jackson",2016,Finance,"West Christine, IN",17276,165.59
+462,Reid Inc,1958,Healthcare,"West Michelleberg, NE",1938,312.58
+463,Matthews and Sons,1954,Retail,"Estradabury, ND",17233,3360.42
+464,"Stewart, Ayers and Park",1969,Retail,"East Andre, NY",13191,8873.98
+465,"Allen, Gardner and Richards",1967,Retail,"Ericland, MI",18737,6304.74
+466,Hart and Sons,1967,Technology,"Willietown, AZ",6055,4868.98
+467,"Harris, Page and Warren",1965,Manufacturing,"Port Vanessa, KY",5368,6828.62
+468,Kelly-Vargas,1990,Finance,"Welchland, OR",17308,1646.04
+469,Anderson-Davis,2014,Manufacturing,"South Trevor, VT",1033,2953.55
+470,Stephens-Butler,1978,Healthcare,"Anthonyview, RI",7740,9064.15
+471,Hays-Palmer,1989,Technology,"Wellsshire, MS",16614,8376.39
+472,"Jackson, Gonzalez and Dunlap",1957,Food & Beverage,"Kaylaport, IN",9647,9972.02
+473,Aguilar Group,1983,Manufacturing,"North Sharonshire, CO",12942,3313.83
+474,"Chapman, Johnson and Rogers",1978,Retail,"Anthonychester, HI",7453,3425.46
+475,Martinez Inc,1988,Technology,"Christopherland, PA",200,6566.8
+476,Taylor-Smith,1999,Healthcare,"New Michelle, AZ",6317,4668.09
+477,Park Ltd,1982,Healthcare,"Thomasbury, MT",18114,2998.56
+478,King LLC,1976,Food & Beverage,"Jeffreyside, WI",668,3910.07
+479,"Reyes, Harris and Pittman",1974,Healthcare,"Johnnyburgh, ID",18882,8586.57
+480,"Sweeney, Gonzalez and Lara",1974,Technology,"Erinbury, KY",15075,8779.06
+481,Kim LLC,1952,Healthcare,"North Michaela, ID",17420,2478.27
+482,Johnson Inc,2018,Retail,"West Bryanmouth, ND",19433,5224.18
+483,"Roberts, Adams and Hunter",1961,Manufacturing,"East Shelbyhaven, VT",8330,8328.15
+484,Huff Group,1972,Manufacturing,"East Marcustown, IA",5359,1832.78
+485,"Meyer, Arnold and Cline",1972,Healthcare,"Shannonton, NE",17257,1031.11
+486,Gutierrez Ltd,1972,Food & Beverage,"West Kennethfurt, TN",8188,8209.54
+487,Roberts-Bryant,2012,Finance,"South Ronaldton, CO",15106,5106.1
+488,"Bradley, Baker and Thomas",2000,Manufacturing,"West Kevin, PA",1516,8518.88
+489,Bennett-Fleming,1953,Retail,"Pottshaven, AK",4183,9816.87
+490,Williams Group,1991,Healthcare,"Martinezbury, CO",1150,1418.03
+491,Reyes-Walsh,1989,Technology,"Port Eric, CA",15111,2026.05
+492,"Chavez, Francis and Anderson",2019,Technology,"Smithbury, TX",15885,8658.42
+493,"Kramer, Nelson and Winters",2011,Food & Beverage,"Mooreport, SD",10813,9722.89
+494,"Black, Drake and Jones",2017,Healthcare,"Longview, CT",371,2996.49
+495,Green Inc,1952,Finance,"Kevinshire, CT",17841,5126.88
+496,White-Cummings,2000,Food & Beverage,"Mccarthyville, NV",10476,1727.34
+497,"Jackson, Greene and Chang",1983,Retail,"Millerborough, MN",13962,1216.19
+498,"Case, Montgomery and Morris",1991,Technology,"New Michaelstad, MI",15230,1131.04
+499,Mills-Reese,1967,Technology,"North Keith, SD",7688,1137.12
+500,"Durham, Barr and Ross",1968,Finance,"Stewartmouth, WI",18339,888.46
+501,Young-Hill,1957,Retail,"Lawsonbury, MO",17884,2507.54
+502,"Scott, Perry and Floyd",2003,Food & Beverage,"Johnathanmouth, WY",14122,3457.52
+503,Davila Group,1985,Technology,"Ruizland, MD",7366,4972.25
+504,Pena and Sons,1980,Retail,"Juanfort, SC",6541,6067.7
+505,Sanchez and Sons,1996,Manufacturing,"East Ronald, NE",14075,6968.51
+506,"Barber, Harmon and Mccoy",2015,Finance,"East Jamesbury, CO",1818,7069.39
+507,Walker and Sons,1982,Healthcare,"East Donnamouth, NY",1511,8506.47
+508,"Mckenzie, Williamson and Washington",1975,Healthcare,"New Daniel, WA",4131,7133.23
+509,"Bennett, Henderson and Anderson",1975,Manufacturing,"Barronberg, MN",9055,5562.82
+510,Powell-Allen,2022,Retail,"Johnbury, MN",3699,4201.35
+511,"Hamilton, Perez and Vega",1987,Food & Beverage,"West Sarahhaven, ND",11542,7725.36
+512,Norton Inc,1954,Finance,"Karenside, NC",7159,9919.17
+513,"Patterson, Bradley and Martinez",2022,Healthcare,"South Robert, MN",15448,5929.3
+514,"Jenkins, Bailey and Casey",1991,Technology,"Port William, AK",7895,835.94
+515,"Moore, Carney and Morales",1975,Food & Beverage,"Smithberg, WI",7436,2026.2
+516,"Martinez, Novak and Fisher",1955,Food & Beverage,"North Ryan, AR",3470,2290.59
+517,"Booker, Vaughn and Graham",1999,Healthcare,"Douglaschester, CA",14450,6497.74
+518,Green LLC,1974,Manufacturing,"Larryborough, PA",11680,5846.92
+519,Clark and Sons,1974,Finance,"Wardtown, OR",8335,8443.02
+520,Rivera-Morris,2019,Food & Beverage,"Christopherton, WA",11816,7719.48
+521,Hill Ltd,1952,Food & Beverage,"North Katiemouth, WY",1654,9276.09
+522,Becker-Miller,1955,Food & Beverage,"Martinmouth, KY",3396,4904.07
+523,Palmer PLC,1983,Healthcare,"Hernandezview, TN",4482,8548.81
+524,Solis Inc,1982,Technology,"Johnside, ID",17215,4140.73
+525,Phelps Group,1989,Food & Beverage,"Lake Davidtown, CT",11929,2922.11
+526,Hill-Peck,1959,Finance,"Kevinside, GA",4974,2244.96
+527,"Young, Reynolds and Gonzalez",1955,Healthcare,"Jacquelineside, UT",229,6571.71
+528,"Sanchez, Gonzalez and Armstrong",1998,Manufacturing,"Port Brandonmouth, NE",9504,3173.51
+529,Calderon PLC,1978,Finance,"Donaldsonhaven, TN",5294,8421.59
+530,"Hines, Roberson and Barrera",1972,Manufacturing,"Graceview, PA",9327,9860.57
+531,"Hunter, Bowen and Fitzgerald",2015,Manufacturing,"East James, TN",13071,8798.94
+532,Cox-Macias,1990,Healthcare,"North Heather, DE",1850,966.17
+533,Herrera-Irwin,1977,Finance,"East Benjaminside, NE",17462,9799.7
+534,Jackson-Harris,1969,Technology,"Alexishaven, TN",16861,9009.93
+535,"Wilcox, Roberson and Wilson",2004,Manufacturing,"Port Garyton, SC",13128,8634.62
+536,"Powell, Yu and Kramer",1995,Finance,"Port Nathan, VT",10193,4972.49
+537,"Stewart, Sandoval and Hobbs",1996,Manufacturing,"Davisshire, AL",16517,3093.75
+538,Parker-Hale,2021,Technology,"Port Jerrychester, MN",9041,2581.19
+539,Bell-Baker,1951,Food & Beverage,"Erikaville, DE",6754,8698.8
+540,"Mckinney, Copeland and Miller",1979,Finance,"Brentborough, MO",5520,8606.1
+541,Ruiz-Rogers,1978,Technology,"Goodmanland, PA",16441,3104.62
+542,Nelson-Burton,1985,Finance,"Lindaville, VA",14932,3039.1
+543,Mills PLC,1993,Healthcare,"Christinafort, SD",10029,271.08
+544,"Skinner, Ortega and Garcia",2013,Finance,"West Dianeton, HI",15988,5983.62
+545,Garcia Inc,2004,Manufacturing,"Watkinschester, VA",18129,4621.83
+546,Graham-Stevens,2017,Manufacturing,"Theresaberg, VA",2260,6566.56
+547,Perez-Bryant,1953,Retail,"Debratown, VA",5461,3415.5
+548,Harvey Ltd,2014,Healthcare,"Port Kelseystad, UT",10190,1425.15
+549,Weber PLC,1972,Manufacturing,"Kirkburgh, HI",16189,5668.73
+550,Hartman-Wong,2012,Healthcare,"Michaelbury, DE",2954,3918.45
+551,Bailey-Gomez,1950,Manufacturing,"Wrightberg, DE",16918,5350.07
+552,Wallace-Watkins,1998,Manufacturing,"Mccoyton, PA",15535,4621.26
+553,"Wilson, Moore and Howard",1971,Retail,"New Tylerton, OK",6013,4646.84
+554,Parsons-Atkinson,1965,Manufacturing,"Padillaville, PA",10285,1987.81
+555,Lyons-Gonzalez,1952,Technology,"Rogersville, DC",16395,4457.15
+556,"Johnson, Moore and Ward",2013,Manufacturing,"South Elizabethport, IN",5956,7623.45
+557,Gibson LLC,1994,Technology,"Port Lawrencetown, MD",6717,3391.08
+558,"Mccoy, Newman and Mcdaniel",2010,Manufacturing,"North Jillberg, KS",13190,7788.17
+559,Johns Group,1996,Finance,"West Jane, MI",13775,6716.81
+560,Chung Inc,1998,Technology,"Tranland, IA",19323,2763.8
+561,"Chambers, Jackson and Webb",2010,Manufacturing,"Port Jessica, SC",17354,8385.56
+562,Hernandez-Howell,1965,Technology,"Lake Joeview, MA",1581,4701.22
+563,Townsend-Lopez,1960,Retail,"Port Ronnie, OH",5313,3445.57
+564,Williams Ltd,2009,Manufacturing,"Lake Patricia, MD",18658,1427.35
+565,Watkins-Mckinney,1990,Technology,"Hamiltonview, TX",12164,9130.82
+566,Francis-Manning,1989,Retail,"Hardybury, MI",14298,712.18
+567,Faulkner-Wu,2011,Food & Beverage,"New Edwardmouth, SD",14707,5953.94
+568,Hardy Inc,2017,Retail,"Turnermouth, NM",3594,9105.48
+569,Stanley-Hughes,1951,Food & Beverage,"Fisherbury, SD",13506,3926.95
+570,Smith Inc,1984,Finance,"Margaretmouth, DC",3432,1418.92
+571,Henderson Group,2003,Healthcare,"Williamland, NC",4965,3645.1
+572,"Glover, Ortiz and Crawford",1971,Technology,"Hancockchester, DC",13996,2917.71
+573,Pollard-Mitchell,2022,Finance,"East Wesleyside, NH",5653,505.1
+574,"Tucker, Hopkins and Horne",2017,Retail,"Donaldshire, ID",16084,4783.09
+575,"Robertson, Lester and Jackson",1952,Food & Beverage,"Robinsonburgh, CO",18664,4082.67
+576,Vaughn-Tucker,1991,Finance,"Brooksville, CO",15058,1932.15
+577,"Rodriguez, Terry and Mendoza",2020,Healthcare,"Port Derek, NY",17546,1208.89
+578,Brown Ltd,1968,Manufacturing,"Adamsfort, AR",5990,3721.78
+579,Jimenez LLC,1998,Finance,"Mercadoborough, AZ",17109,3908.46
+580,"Griffith, Jones and Graham",1983,Healthcare,"North Margaretchester, DC",142,6837.67
+581,Hunt-Parker,1987,Finance,"Lake Michael, CT",19204,5638.0
+582,Christensen Group,2019,Retail,"West Melissa, IA",9693,6841.38
+583,Marshall-Walker,1963,Manufacturing,"Lake Johnathan, MI",4921,1746.21
+584,Davis-Santiago,2018,Retail,"Jamesstad, NM",17644,8491.68
+585,"Johnson, Patterson and Davis",1991,Retail,"Jeremyfurt, MI",14231,4265.68
+586,"Gray, Reyes and Perkins",1950,Finance,"Phillipsshire, NJ",14273,1939.12
+587,"Johnson, Miller and Wilson",1977,Food & Beverage,"New Ruth, OH",15145,5823.06
+588,"Mcmillan, Hansen and Singh",1977,Technology,"Michaelborough, VA",7988,8414.54
+589,Gray-Kennedy,1992,Technology,"Mooreborough, SD",8730,6459.27
+590,"Gibbs, Harrison and Torres",2001,Finance,"Kimberlyview, KS",9626,4278.33
+591,Castillo-Ellison,1960,Technology,"New Katieborough, NH",5451,3204.03
+592,Ware Group,1992,Technology,"New Michelle, CO",10570,5968.4
+593,Esparza Ltd,2009,Food & Beverage,"North Crystal, VA",2023,1688.82
+594,Montgomery-Bennett,1997,Finance,"Barnettland, OK",9060,9184.09
+595,Francis-Woods,1974,Food & Beverage,"East Patrick, ND",10988,6849.99
+596,"Richmond, Garrett and Kim",1968,Manufacturing,"Christinachester, RI",1872,1653.03
+597,Bradley LLC,1965,Healthcare,"New Jaredville, ID",15775,8102.23
+598,"Anderson, Fisher and Frye",2015,Manufacturing,"North Debbie, RI",7149,4601.32
+599,Miller-Perry,1959,Finance,"Katieland, NY",3339,370.52
+600,Bean-Reynolds,1970,Technology,"New Michaelside, NY",756,676.32
+601,Kennedy-Sawyer,1961,Food & Beverage,"Port Benjaminmouth, MD",13490,684.91
+602,"Harvey, Rivera and Simmons",1963,Retail,"West Sherry, VT",17745,8396.02
+603,"Williams, Schneider and Reynolds",1976,Healthcare,"Shaunfurt, MD",9829,7580.53
+604,"Griffin, Hogan and Moss",2012,Manufacturing,"North Jasonfurt, IL",4376,6682.56
+605,"King, Bell and Watkins",1997,Retail,"New Eric, TX",18416,47.43
+606,"Kline, Bennett and Robinson",2003,Retail,"Melissaton, WI",2865,2972.91
+607,Huffman-Smith,2001,Healthcare,"North Jeremyland, CT",6690,2809.53
+608,Frazier-Young,2005,Manufacturing,"North Adammouth, UT",7840,4796.83
+609,Wilson-Thomas,1991,Retail,"Port Kennethfurt, ME",943,8123.47
+610,Johnson-Burns,1989,Finance,"Kennedymouth, SC",15775,7311.07
+611,Jenkins LLC,2014,Manufacturing,"Stephenmouth, SD",15891,8640.48
+612,Dean PLC,1999,Manufacturing,"East Michaelchester, MO",19080,8168.94
+613,White LLC,2019,Technology,"Lake Hector, MS",8783,9932.65
+614,"Lewis, Ferguson and Hayes",1999,Finance,"New Kathleentown, RI",8423,8035.96
+615,Mckinney Inc,1955,Technology,"Jordanchester, NJ",10924,9601.62
+616,Harris-Guerra,1986,Retail,"Reginaborough, LA",19519,7680.76
+617,Hays-Cunningham,2013,Healthcare,"Estradahaven, IL",10812,8351.66
+618,"Olson, Gomez and Brown",1977,Technology,"New Justinchester, ND",17655,2856.06
+619,Barber-Rodriguez,1993,Manufacturing,"Port Eric, ME",2047,2369.05
+620,David PLC,1968,Food & Beverage,"Duffystad, IA",11192,1677.93
+621,Vang Group,2006,Finance,"New Julie, ND",839,7000.05
+622,"Mcdonald, Cole and Franklin",1963,Technology,"Port Michael, NM",18046,2315.28
+623,"Mccarthy, Parker and Foley",2004,Healthcare,"Joshuaberg, WI",18232,3491.09
+624,"Vaughn, Davis and Bennett",1963,Technology,"Mooreborough, TX",9626,4172.16
+625,Floyd and Sons,1952,Food & Beverage,"Samuelfort, AL",1484,2454.72
+626,"Hunter, Thomas and Roberts",1991,Food & Beverage,"Davisside, VT",3240,815.23
+627,Davis-Jenkins,1994,Manufacturing,"North Andreaburgh, RI",15150,7056.18
+628,"Powers, Singh and Jones",2011,Technology,"Port Susan, OK",15270,3359.37
+629,"Sullivan, Gray and Cannon",1984,Finance,"Kingville, AL",2728,6901.81
+630,"Schmidt, Jarvis and Lamb",2013,Healthcare,"Maryside, NJ",1094,6937.45
+631,Zimmerman LLC,2001,Technology,"East Jessicamouth, AR",15276,5802.55
+632,Sampson-Burns,1977,Food & Beverage,"Nelsonmouth, TX",11877,700.36
+633,"Torres, Hall and Meza",1986,Food & Beverage,"Port Lisabury, WV",19387,3651.88
+634,Turner-Wong,1958,Retail,"South Davidville, UT",17883,8911.12
+635,"Atkinson, Harrington and Bennett",1996,Healthcare,"Levinemouth, NM",920,8795.64
+636,White-Garcia,2013,Finance,"West Staciefurt, WI",10591,1759.6
+637,Adams-Adams,2015,Technology,"New Joseph, DE",15945,2305.26
+638,"Mcguire, Berg and Perry",2010,Retail,"South Morgan, NJ",12424,2933.8
+639,"Christensen, Bell and Stevens",1985,Healthcare,"Linville, AZ",5259,7226.27
+640,"Schneider, Murphy and Brown",1979,Healthcare,"Mariahburgh, WI",18552,5942.51
+641,Stafford Inc,2021,Retail,"Port Saraville, WI",3449,1640.65
+642,Smith Inc,2008,Healthcare,"Michaelview, NH",11781,8501.36
+643,Young-Rowland,2002,Healthcare,"Brittanymouth, DC",6274,3462.05
+644,"Hart, Vaughn and Johnson",1993,Finance,"Emmamouth, CA",17794,1313.19
+645,Mcclure PLC,2009,Technology,"Deborahside, MD",11811,3267.07
+646,Bennett-Barrett,1984,Finance,"Lake James, NJ",5372,4466.56
+647,"James, Edwards and Hamilton",1975,Food & Beverage,"Smithtown, ME",6042,9899.37
+648,"Stone, Butler and Carter",1951,Food & Beverage,"Marcustown, ID",18760,8854.73
+649,"Baker, Wright and Cole",1970,Manufacturing,"Bennettfort, NV",17703,3891.31
+650,Lozano-Stuart,2007,Food & Beverage,"Parkerside, SC",11505,2513.33
+651,"Lin, Gray and Gonzalez",1959,Healthcare,"North Yvonne, VA",17602,5460.28
+652,"Mcgee, Sanchez and Mccann",1972,Manufacturing,"Port Joshuamouth, AR",3606,302.11
+653,White-Irwin,1993,Technology,"New Omarberg, TN",14881,1262.33
+654,Jimenez Group,1964,Finance,"Andreashire, AK",18401,3654.52
+655,"Jackson, Alvarez and May",1953,Retail,"Port William, DE",18901,3116.07
+656,"Caldwell, Whitaker and Willis",2011,Food & Beverage,"Villanuevaville, OH",17769,1631.18
+657,Davis-Hughes,2022,Healthcare,"Port Pamela, ME",1825,129.22
+658,Manning-Mcbride,1975,Retail,"Ethanside, PA",8532,5451.12
+659,"Curtis, Hill and Phillips",1980,Technology,"Danielborough, GA",14549,4441.27
+660,Wright Ltd,1969,Technology,"Heatherborough, MI",12763,8002.48
+661,"Bowers, Gibbs and Evans",1982,Technology,"Arthurport, WI",9390,2170.47
+662,Smith Inc,1998,Healthcare,"Christineview, MS",19705,8776.84
+663,Goodman PLC,1968,Finance,"Leslieberg, NJ",5103,566.88
+664,Castro-Ruiz,1977,Manufacturing,"Andersonview, NY",7586,1788.32
+665,"Diaz, Acosta and Espinoza",2002,Finance,"Aliburgh, SD",11637,2302.58
+666,Ward-Robertson,1995,Retail,"Wilsonland, OH",7665,742.03
+667,Morgan LLC,1979,Technology,"Georgebury, PA",18080,42.4
+668,"Wallace, Torres and Lin",1969,Finance,"Shawfurt, VT",15618,8832.5
+669,Hale Group,2013,Technology,"Abbottview, WA",11618,13.58
+670,Burns Ltd,1952,Retail,"Heatherhaven, DE",11378,5948.75
+671,Wilson Inc,2009,Healthcare,"South Jimmyview, KY",10974,7521.37
+672,Wilson and Sons,1980,Finance,"East Amandaberg, LA",13118,7412.65
+673,Wall Inc,1990,Retail,"Davidland, WA",8373,4303.98
+674,Lyons Group,1977,Retail,"Ryanburgh, TN",11114,1739.17
+675,Sawyer LLC,1999,Food & Beverage,"West Amandaborough, ME",3892,3384.6
+676,Johnson Group,1995,Healthcare,"Aliburgh, NJ",14455,379.87
+677,"Floyd, Williams and Johnson",1975,Manufacturing,"Desireefurt, OK",7685,8200.28
+678,"Johnson, Cooley and Edwards",1992,Technology,"New Jennifer, WV",16926,1880.41
+679,"Rogers, White and Young",2014,Food & Beverage,"Peterville, CA",13774,8115.29
+680,Benjamin Group,2008,Manufacturing,"New Jamesport, ME",13049,2109.87
+681,Duncan Ltd,1996,Food & Beverage,"Phillipsville, MS",59,7996.46
+682,Johnson-Harmon,1987,Food & Beverage,"Nicoletown, NV",4301,6037.96
+683,Ferguson-Shepherd,1985,Finance,"North Robertside, MS",19252,6402.38
+684,Curtis PLC,1995,Manufacturing,"Ramosburgh, ND",5167,4937.33
+685,Zuniga-Haas,1964,Finance,"Duncanmouth, DE",4325,8440.45
+686,Vaughan-Watson,1998,Food & Beverage,"Laurenmouth, ME",14974,7798.79
+687,Hernandez-Whitaker,1952,Technology,"Buckleyview, MI",7735,2566.07
+688,"Martin, Gordon and Pierce",2007,Retail,"Westbury, SD",5239,1485.07
+689,Fields PLC,2013,Manufacturing,"Samuelfurt, CO",3905,2970.88
+690,"Gonzalez, Sanford and Delgado",1953,Finance,"Port Samuelville, MA",3828,5132.7
+691,Moore LLC,1965,Food & Beverage,"Rodriguezmouth, LA",7054,6291.31
+692,"Williams, Avila and Hernandez",2002,Healthcare,"Thompsonstad, OR",10989,3014.1
+693,"Reynolds, Henry and Burton",1972,Manufacturing,"Ashleystad, VT",5147,8090.94
+694,"Perez, Hardy and Villarreal",1971,Finance,"West Stephanie, KY",6848,5425.87
+695,Hardy LLC,1953,Food & Beverage,"Robertmouth, CO",7221,8113.55
+696,Rogers PLC,1987,Healthcare,"Lake Thomas, FL",866,1272.49
+697,Hopkins-Davis,1977,Finance,"Gouldport, ID",6359,5558.8
+698,Gray-Turner,1964,Retail,"Port Maria, DE",5494,2870.06
+699,"Schneider, Davis and Wood",2003,Manufacturing,"West James, SD",384,9187.83
+700,Carney-Smith,1994,Manufacturing,"Ashleyborough, RI",18618,796.91
+701,West LLC,1977,Food & Beverage,"East Matthew, KS",14501,6183.03
+702,Atkins Group,1963,Manufacturing,"South Danielleside, TX",13932,3424.3
+703,"Phillips, Gray and Cole",2003,Food & Beverage,"East Kimberlyburgh, NV",6750,9867.32
+704,"Clayton, Thornton and Rodgers",1961,Food & Beverage,"North Brandiview, LA",17358,7156.31
+705,Everett Inc,2006,Food & Beverage,"Donaldborough, DE",18105,4157.48
+706,Reed LLC,1996,Food & Beverage,"Port Debra, MD",10699,3906.43
+707,Smith-Perry,1989,Retail,"Shanemouth, FL",7730,9729.79
+708,"Gould, Ford and Taylor",1970,Manufacturing,"Helenfurt, NH",1146,5524.08
+709,"Houston, Hanson and Horne",1985,Retail,"New Rebecca, CA",6148,9926.4
+710,Thomas PLC,1988,Retail,"Castrofort, AZ",11545,86.96
+711,Torres PLC,1989,Finance,"North Antonioview, AR",2067,5173.64
+712,Chase Ltd,2017,Finance,"Lake Kenthaven, WA",2650,9020.81
+713,Gomez-Lester,1971,Retail,"Garrisonberg, FL",15021,774.05
+714,Callahan-Mitchell,1985,Healthcare,"New Jamesview, AR",13370,3400.1
+715,Roberts-Wilson,1964,Retail,"Michelleville, GA",13703,8568.84
+716,Soto PLC,1993,Healthcare,"West Hollyside, OK",4279,8292.15
+717,Alexander Inc,1982,Retail,"South David, KS",9856,2509.47
+718,Reyes-Mccarty,1969,Finance,"East Carrie, ME",9197,5481.22
+719,"Li, Martin and Lawrence",1982,Finance,"Chelseatown, FL",469,7893.18
+720,"Taylor, Evans and Johnson",1960,Healthcare,"Lake Rebeccaton, MA",16201,1230.63
+721,Knight-Carson,1983,Healthcare,"North Jasmine, ID",1582,1516.4
+722,Hodges-Trevino,1974,Food & Beverage,"West Timothyside, SC",15276,7827.26
+723,"Garza, Mullins and Larson",1954,Manufacturing,"Oliverview, AK",18884,4490.96
+724,Smith-Valentine,2017,Technology,"Larsenside, KS",3336,9125.68
+725,Reese-Soto,2011,Finance,"Samanthafort, AL",18443,4537.01
+726,Young LLC,1998,Technology,"Colleenborough, MI",4433,2451.68
+727,King PLC,1972,Finance,"Sarahshire, WY",17865,7058.3
+728,Hale Group,2011,Technology,"Fosterborough, PA",16032,987.77
+729,Barker Inc,1999,Healthcare,"East Markport, WA",13139,5520.66
+730,"Jimenez, Burch and Wallace",1953,Healthcare,"Ramseyside, DC",14609,3445.12
+731,"Davis, Benton and Jackson",1991,Manufacturing,"Schultzville, MS",4925,5367.35
+732,Hunter-Payne,2020,Retail,"Anthonystad, GA",16873,5443.96
+733,Peterson Inc,1967,Retail,"South Kimberlyfurt, ME",18310,9500.84
+734,"Pacheco, Haney and Smith",2012,Retail,"Kimberlybury, DE",5998,7104.63
+735,"Ellison, Thomas and Bennett",2015,Finance,"Lindaburgh, OH",14479,8032.36
+736,Miller-Hamilton,2003,Finance,"New Josephton, SC",13677,1023.59
+737,"Peterson, Lopez and Salinas",2006,Technology,"South Christineland, NC",611,8937.56
+738,"Harris, Pineda and Gardner",1979,Technology,"Reginabury, NJ",9583,2189.23
+739,Nguyen Inc,1972,Manufacturing,"New Erin, NM",10734,9735.52
+740,"Wilkins, Lewis and Adams",1990,Manufacturing,"South Mikaylaview, RI",14212,7485.12
+741,Chapman-Robertson,1986,Manufacturing,"New Janet, MD",12343,2116.67
+742,"Perez, Burns and Schneider",1976,Healthcare,"Nielsenshire, NJ",4184,4333.81
+743,Rivera-Coleman,1975,Food & Beverage,"Sarahborough, NC",14466,2084.33
+744,"Weaver, Williams and Rivera",1976,Healthcare,"Timothyborough, VT",10229,9528.69
+745,Green-Young,1965,Healthcare,"North Theodore, IN",16675,4011.54
+746,"Ruiz, Davis and Horton",1959,Healthcare,"Johnfort, MI",10253,602.14
+747,Maxwell-Thompson,1996,Finance,"West Bobbyport, LA",11896,4489.32
+748,Perry-Brown,2016,Manufacturing,"Port Antonio, OH",14795,3988.67
+749,"Smith, Miller and Frank",1985,Technology,"North Jeanette, VA",9241,1330.63
+750,Cochran-Taylor,2007,Technology,"Alexisview, IN",9201,3509.74
+751,Hayes Inc,1957,Retail,"Lake Angelaborough, MT",6126,1177.78
+752,"Suarez, Watts and Haas",1955,Healthcare,"Danielbury, DC",731,7689.24
+753,Bender-Wang,1958,Technology,"Wattsstad, PA",9104,4554.6
+754,Rasmussen-Campos,1992,Retail,"Amandaton, WY",9640,6757.92
+755,"Andrews, Thompson and Young",1962,Technology,"Christopherborough, WY",863,2616.26
+756,"Charles, Jennings and Thompson",1981,Technology,"East Amanda, TX",752,111.27
+757,Bell Ltd,1976,Retail,"East Gregory, MN",16736,4581.77
+758,George Inc,1986,Technology,"Port Michael, OK",18834,3669.21
+759,Li Inc,1974,Technology,"Randyville, NM",123,6675.97
+760,"Wright, Bryant and Garcia",1963,Finance,"Georgeview, MI",5934,22.12
+761,Bowers-Ashley,1996,Food & Beverage,"Cisnerosburgh, NY",14054,8670.36
+762,Franklin Ltd,2021,Retail,"Alexanderborough, UT",333,2301.98
+763,"Acevedo, King and Vaughn",1950,Retail,"North Nancyburgh, OR",6022,991.36
+764,Bowers-Atkinson,1970,Food & Beverage,"Changberg, MI",1051,1938.34
+765,Baker-Robles,1975,Retail,"Reneefurt, RI",14833,911.37
+766,"Edwards, Terry and Ballard",2010,Retail,"Spencerbury, AK",10037,5164.49
+767,"Henderson, Adams and Robertson",1951,Food & Beverage,"Lake Victoriaton, DC",7348,2193.15
+768,"Berger, Morgan and Day",2020,Technology,"Martinmouth, MI",19223,2128.82
+769,"Willis, Conway and Mann",1967,Healthcare,"South Bethchester, DC",19322,8478.22
+770,Wagner Inc,1994,Food & Beverage,"North Daniel, NM",11129,1942.83
+771,Rivera-Williams,1999,Manufacturing,"Lake Traceyland, MO",2239,9889.91
+772,Singh-Hansen,1968,Technology,"Lisaland, MT",1470,4392.11
+773,Weber PLC,1997,Technology,"Braunmouth, PA",7262,4735.14
+774,Gray Ltd,2006,Food & Beverage,"Lake Claire, NC",19829,180.34
+775,"Smith, Wang and Copeland",2012,Food & Beverage,"Kevinmouth, MT",10718,7058.83
+776,Hines PLC,1996,Manufacturing,"New Nancyview, WI",16324,5839.51
+777,May Ltd,1950,Food & Beverage,"East Jerry, FL",18087,5275.96
+778,Jones-Carpenter,2012,Finance,"North Antonio, MT",14322,2652.21
+779,Pace-Newton,1986,Manufacturing,"Tylerland, MO",4562,5189.08
+780,Thompson LLC,1960,Finance,"Vargastown, VT",633,1258.96
+781,Payne-Clark,1956,Manufacturing,"New Sarahborough, TN",10999,6772.85
+782,Ford-Williams,2007,Manufacturing,"Mccoyburgh, NC",7639,1085.92
+783,Miller-Wright,1982,Healthcare,"Ruiztown, KY",17112,1472.5
+784,Castaneda-Kennedy,1991,Food & Beverage,"Juliefurt, TN",5340,5761.87
+785,Brown Inc,1991,Finance,"Lake Brandy, ID",8100,5078.4
+786,"Dickerson, Bass and Christian",1992,Manufacturing,"Whiteshire, MI",3545,8338.22
+787,"Dixon, Taylor and Green",2009,Retail,"Brooketon, AL",12032,5594.92
+788,Dawson PLC,1984,Manufacturing,"Mcgeeside, TX",12973,9120.61
+789,"Rodriguez, Mcdaniel and Anthony",2014,Finance,"Shellychester, SD",6445,8379.06
+790,"Andrews, Mejia and Evans",1955,Finance,"South David, KY",16250,3653.21
+791,"Hall, Petty and Melton",1951,Finance,"Santanaborough, VT",19703,6865.38
+792,Schmitt and Sons,1959,Food & Beverage,"Pamelaburgh, WA",5913,1703.25
+793,"Sparks, Moore and Wheeler",1959,Technology,"Jameschester, GA",4351,7337.25
+794,Cooper LLC,1956,Finance,"West Christinabury, AZ",19960,8474.98
+795,Hill PLC,2012,Manufacturing,"South Shelly, NV",424,5123.25
+796,Munoz LLC,1966,Retail,"East Reginafort, VT",13847,4136.89
+797,"Smith, Smith and Hall",2006,Manufacturing,"West Christian, AK",3105,6864.34
+798,Gentry-Watkins,1979,Finance,"East Michael, HI",5142,4488.92
+799,"Bell, Romero and Humphrey",1997,Healthcare,"Piercechester, AL",13578,6185.09
+800,Gonzales PLC,1985,Healthcare,"East Debra, WI",14022,2372.0
+801,"Rosales, Johnson and Choi",2004,Healthcare,"Marilynside, OH",15702,3899.19
+802,Evans-Reed,1962,Manufacturing,"Amandaland, TX",12067,8999.5
+803,Potter-Johnson,1996,Healthcare,"Lake Brittneyland, WV",17006,1943.5
+804,"Adams, Bell and Hodges",1960,Technology,"Stevenmouth, IN",5167,5656.79
+805,Davis Group,1963,Healthcare,"West Mary, PA",17116,2351.39
+806,Henry-White,1951,Finance,"East Robert, PA",18169,1887.03
+807,"Boyd, Gordon and Allen",2004,Technology,"Wellsshire, FL",10722,8728.08
+808,"Brennan, Green and Martin",2008,Retail,"South Tammy, MN",5882,54.71
+809,"Benitez, Watts and Delacruz",2015,Finance,"Port Juliemouth, NV",2968,2222.35
+810,Decker LLC,1988,Food & Beverage,"East Caleb, AK",1548,5012.74
+811,Lane PLC,2018,Technology,"West Elijah, ME",6678,3858.11
+812,Smith Ltd,1989,Healthcare,"Tylerside, NJ",18827,9747.47
+813,Hebert Group,1973,Healthcare,"Theresashire, MN",11216,5919.89
+814,"Parker, Wilkins and Horton",1960,Finance,"Duffymouth, CO",18369,3449.94
+815,Lee-Rivera,1990,Retail,"Smithberg, MI",3884,5995.33
+816,"Ray, Jones and Johnson",1968,Retail,"West Yolandaburgh, OR",4195,8620.72
+817,"Hancock, Cook and Schultz",1978,Retail,"Chadfurt, NM",2799,7628.91
+818,Foster-Patton,1969,Manufacturing,"Port Travischester, OK",11991,8284.71
+819,Andrade-Marks,1975,Healthcare,"Port Davidbury, OH",7575,6185.47
+820,"Roberts, Bennett and Hall",1977,Food & Beverage,"North Stephanie, TX",4635,8015.66
+821,Smith-Arroyo,1951,Finance,"Jonesfurt, MD",13583,4817.91
+822,Ho Ltd,1990,Finance,"West Betty, CO",12060,1138.49
+823,"Davis, Wiggins and Peterson",1974,Food & Beverage,"Mcdowelltown, WY",11127,8373.82
+824,Gutierrez Inc,1965,Food & Beverage,"Lake Alexander, VT",8762,3752.25
+825,Woods-Sims,1956,Food & Beverage,"North Jacobmouth, MD",5467,9638.16
+826,Miller-Wong,1951,Retail,"South Christopher, NV",15397,1626.45
+827,White and Sons,1950,Retail,"Cuevasshire, OH",3254,2546.11
+828,Singh Ltd,2021,Finance,"Allenburgh, OK",11744,2635.24
+829,Vaughn LLC,2007,Technology,"Adamshaven, AR",13579,7925.48
+830,"Johnson, King and King",1971,Manufacturing,"Myersmouth, NY",19141,22.15
+831,Rodriguez-Melendez,1979,Retail,"Lake Josephshire, IL",6484,8607.14
+832,"Morgan, Davis and Anderson",1981,Food & Beverage,"East Jeffreymouth, UT",19453,8162.96
+833,Murray Inc,2006,Finance,"Laurenfurt, ME",2321,3587.27
+834,Rodriguez-Murray,1961,Finance,"Cooperchester, OK",17902,7754.85
+835,Gomez Inc,1961,Retail,"Brianshire, MO",5152,4225.11
+836,Simmons and Sons,2005,Food & Beverage,"Anthonychester, HI",7132,6259.32
+837,"Gutierrez, Christian and Larsen",1954,Retail,"New John, ME",10815,4224.61
+838,Perez Group,1965,Technology,"West Rebeccaberg, UT",5949,9475.99
+839,"Rivera, Kim and Rhodes",2009,Manufacturing,"Port Tinachester, WI",16431,2202.11
+840,Rice-Lopez,1992,Finance,"Jeffreyland, MO",2305,5793.74
+841,Fuentes Ltd,2016,Finance,"New Alicia, MO",2263,5758.62
+842,Buchanan-Contreras,1952,Manufacturing,"West Darrenberg, ND",16625,7245.5
+843,Ruiz PLC,1950,Finance,"Angelahaven, OR",5461,3300.28
+844,"Johnson, Grant and Brooks",2012,Retail,"Port Brittanyside, AZ",18572,3346.67
+845,Hall LLC,2017,Food & Beverage,"New Monica, GA",6705,8017.15
+846,Ellis PLC,1996,Food & Beverage,"Port Thomasberg, ID",15068,9287.91
+847,Hernandez-Davies,1958,Food & Beverage,"North Barbaraland, OH",16033,5037.46
+848,Roberson PLC,1959,Healthcare,"South Michelletown, NJ",7925,2310.48
+849,"Harris, Richardson and Davis",1960,Finance,"Knightborough, OK",12583,1637.17
+850,Barton-Richardson,1976,Finance,"Lake Josephland, MS",3886,7809.94
+851,Lewis-Neal,1980,Retail,"East Monicachester, AL",14852,6383.86
+852,Thompson Ltd,1998,Technology,"North Mark, HI",10511,3278.03
+853,Larson LLC,1994,Food & Beverage,"Michelleside, ND",2153,595.45
+854,"Ross, Brewer and Lara",1952,Retail,"Donnabury, HI",6811,5017.39
+855,Lee-Nichols,2003,Healthcare,"North Christopher, MO",5132,476.39
+856,Werner and Sons,1988,Healthcare,"South Lisatown, NJ",10982,5269.55
+857,Smith-Mann,1968,Healthcare,"South Joshuachester, NM",18891,2069.27
+858,"Campbell, Gray and Barron",1994,Manufacturing,"Wolfeberg, RI",19267,1572.6
+859,Kline-Silva,1992,Finance,"Holmesburgh, VT",6216,1911.8
+860,"Swanson, Baker and Mccann",1974,Retail,"New Andrewfort, NM",120,4728.63
+861,Horton PLC,1954,Food & Beverage,"West Todd, AZ",9312,9025.65
+862,Jackson Inc,1956,Healthcare,"East Gabrielfort, FL",11897,5841.36
+863,Osborn-Mccall,1962,Technology,"Lake Mark, HI",4331,8479.99
+864,"Gray, Gilbert and Smith",2015,Manufacturing,"New Patrick, GA",594,5856.54
+865,Sims Inc,2016,Healthcare,"Perrymouth, WI",2332,8913.32
+866,Garcia-Baker,1957,Retail,"Williamstown, NY",17418,3394.35
+867,Middleton Group,1983,Technology,"Clarkeborough, AK",11801,853.42
+868,"Wong, Weiss and Gonzalez",1989,Technology,"Port Aaron, KS",7953,6616.3
+869,Cooper-Mendez,1998,Manufacturing,"West Kurt, DC",2747,8980.18
+870,"Stanley, Thornton and Richardson",1971,Finance,"East Meganton, MD",1820,6239.36
+871,Fry-Woods,1991,Healthcare,"New Sergio, FL",17711,4291.31
+872,Fernandez-Cabrera,2013,Finance,"Cardenasshire, IL",1109,9215.61
+873,"Obrien, Wiggins and Hawkins",1990,Healthcare,"Williamstown, VA",5002,5063.5
+874,Stephens PLC,1988,Food & Beverage,"South Jeffreymouth, TX",4300,1591.4
+875,"Gonzalez, Mclaughlin and Johnson",1965,Retail,"Colemanhaven, TN",10425,8994.79
+876,Rasmussen-Parker,1989,Manufacturing,"New Oscar, LA",2947,684.62
+877,Nelson Group,1970,Food & Beverage,"Valdezbury, LA",17386,3076.33
+878,"Blair, Price and Avila",1988,Retail,"Makaylaburgh, GA",569,9142.22
+879,"Oliver, Herrera and Rubio",2018,Retail,"East Barbara, RI",6008,2455.36
+880,Gonzalez-Salazar,1986,Retail,"Smithbury, AZ",8767,2977.57
+881,Benjamin and Sons,1979,Healthcare,"Port Donald, NE",3592,6639.22
+882,"Lopez, Warren and Rivas",2018,Healthcare,"Nunezstad, AL",10508,4609.38
+883,"Mathis, Snyder and Murphy",1959,Technology,"Pinedafort, ND",13918,7553.6
+884,"Reeves, Cook and Clay",2004,Manufacturing,"Jamesmouth, ND",10162,2498.55
+885,"Acosta, Dalton and Diaz",2003,Retail,"Lake Nicoletown, SC",1768,1693.32
+886,"Bailey, Garrett and Johnson",2006,Healthcare,"South Cynthiafurt, IN",1598,79.3
+887,Brown PLC,2005,Retail,"Port Jonathanberg, NM",17304,9868.72
+888,Bryant-Sellers,1954,Finance,"South Antonio, UT",3902,4510.94
+889,Lawrence PLC,1954,Manufacturing,"North Mary, GA",1717,9903.41
+890,"Schmidt, Black and Haynes",1975,Manufacturing,"Smithmouth, NC",10124,4069.08
+891,Hobbs-Rodriguez,1991,Retail,"Danielport, HI",8056,606.82
+892,Long Inc,1965,Finance,"Port Robert, AZ",603,9297.78
+893,Wallace-Roberts,2018,Food & Beverage,"North Kimberlychester, SC",6382,8140.74
+894,Werner-Collins,1970,Manufacturing,"Lake Teresaburgh, NE",2730,5669.55
+895,"Walker, Santiago and Rogers",1985,Healthcare,"East Tiffany, NJ",4862,2140.55
+896,Jenkins-Peck,1977,Technology,"West James, TX",6822,4802.4
+897,"Miller, Harris and Mack",2008,Technology,"East Matthew, ND",15977,5589.01
+898,Thompson-Moore,1984,Healthcare,"Chavezmouth, VA",3613,6735.93
+899,Cummings-Santiago,1993,Technology,"Port Robert, TX",3251,5481.3
+900,"Wilson, Jordan and Castillo",1998,Technology,"Toniborough, UT",14992,4505.03
+901,"Shepard, Brown and Walker",1955,Finance,"Clarkshire, WV",10856,4541.15
+902,"Walker, Sampson and Mcmillan",1993,Manufacturing,"Harrisbury, NC",13870,960.73
+903,Simpson Inc,1965,Retail,"Richardchester, NM",1648,6486.74
+904,"Fuller, Esparza and Powell",2006,Healthcare,"Jamesside, AZ",4812,5126.03
+905,Aguilar Group,1969,Retail,"North Christina, VT",7475,3590.93
+906,Price Inc,1985,Technology,"Karenfort, MS",13657,8993.53
+907,Mitchell-Davis,1955,Finance,"Cindymouth, OR",1888,7730.92
+908,Hernandez-Hamilton,2019,Finance,"Heatherview, FL",16848,315.68
+909,"Oconnor, Nash and Fleming",2007,Technology,"West Brianafurt, SC",9725,4345.34
+910,"Smith, Kelly and Whitaker",2014,Finance,"Jacobburgh, TX",4721,6574.98
+911,"Goodman, Johnson and Williams",2001,Healthcare,"South Pamela, NH",15073,2773.26
+912,Rivera-Peterson,1970,Finance,"Meganfort, AL",13514,6162.32
+913,Jones Group,2000,Finance,"North Gerald, LA",6629,5918.29
+914,"Moody, Clark and Oliver",1979,Retail,"Carlaview, IN",7234,4874.9
+915,"Mcfarland, Beard and Ponce",1953,Finance,"Camposview, ID",15730,1166.6
+916,"Poole, Brewer and Yang",1976,Food & Beverage,"Mistyside, TX",9117,2931.96
+917,Wilson-Ortiz,1989,Healthcare,"Maureenton, WA",5013,8569.12
+918,"Jefferson, Daniels and Shaffer",1990,Retail,"South Carol, ND",16179,6115.65
+919,"Williams, Cox and Mcdowell",1951,Manufacturing,"Coxtown, MT",2228,1525.66
+920,Goodman-Lopez,1965,Finance,"North Jamiefurt, CO",19359,4625.38
+921,Montes-Garcia,1976,Technology,"Reedbury, ME",12137,8636.47
+922,Warner PLC,1987,Technology,"Sherrymouth, IL",18385,7780.11
+923,"Bailey, Phillips and Jordan",2020,Food & Beverage,"Billyland, ID",5406,456.31
+924,Walker-Moreno,1995,Technology,"South Jennifer, NM",13643,2940.96
+925,Davis-Joseph,1992,Manufacturing,"Alexisview, ND",3717,6681.33
+926,Gordon-Clark,1997,Food & Beverage,"West Marcus, ID",3100,1873.55
+927,Rios-Mccormick,1975,Finance,"New Brandonborough, MS",9300,4727.81
+928,Beck and Sons,1993,Technology,"South Williamville, WY",3667,4491.29
+929,Kelly-Welch,1995,Healthcare,"East Kennethberg, WV",18707,6840.99
+930,"Garcia, Olsen and Hicks",2014,Retail,"North Shelby, NM",7276,8866.89
+931,Lopez Group,1978,Finance,"West Zachary, CA",14154,3252.06
+932,"Duran, Yates and Ross",1981,Finance,"Lake Hannah, AR",17920,5345.43
+933,"Butler, Smith and Stewart",1970,Food & Beverage,"Torrestown, UT",16819,8816.02
+934,"Perez, Mullins and Clark",1958,Healthcare,"New Christopherbury, WY",11225,284.3
+935,Keller Group,1952,Finance,"New Markburgh, IA",2778,6153.81
+936,"Grimes, Price and Aguirre",1998,Technology,"Martinezchester, WV",940,3675.27
+937,"Hernandez, Allen and Powers",2003,Healthcare,"Youngmouth, LA",19211,2423.75
+938,Glover-Cooper,2007,Food & Beverage,"East Jack, KY",9825,5817.75
+939,Savage-Riley,1971,Healthcare,"Callahanborough, HI",1000,4860.46
+940,Long-Ryan,2009,Manufacturing,"Lake Kimberly, AL",8643,2976.76
+941,Rodriguez LLC,1962,Food & Beverage,"Jessicaborough, WY",6574,5823.59
+942,"Morrison, Carson and Clark",2021,Finance,"Kennedyside, WI",18580,2224.54
+943,Wilson-Cortez,1995,Finance,"Kleinland, OH",14104,8768.9
+944,Mack-Velez,1961,Healthcare,"Caitlinborough, SD",18558,3003.1
+945,Parker LLC,2010,Finance,"East Jennifer, NV",17034,3041.35
+946,"Taylor, Knapp and Savage",1971,Technology,"Taylorstad, UT",14963,3015.94
+947,Dominguez Inc,1997,Finance,"Millerside, NM",14009,9289.21
+948,Barnes LLC,2007,Retail,"New Brandon, ME",19098,3035.49
+949,Mcgee Ltd,1976,Healthcare,"Port Laura, TN",10542,8688.27
+950,Jimenez-Martin,2016,Healthcare,"Williamstad, MA",2470,8469.58
+951,"Clements, Lee and Stewart",1976,Finance,"Port Kellyfurt, WY",5469,3863.14
+952,Taylor PLC,1994,Technology,"New Lee, WI",16564,2687.03
+953,Hall Group,1974,Finance,"Wilsonside, SD",1583,6608.11
+954,Stanley-Garcia,1980,Manufacturing,"Port Samuel, AL",9375,2533.62
+955,Quinn Group,1966,Manufacturing,"Madisonborough, FL",18764,8790.0
+956,Macias-Roberts,1988,Healthcare,"Montgomeryside, AK",9106,9244.75
+957,Douglas-Smith,1997,Manufacturing,"Port Zacharytown, DC",3347,7924.42
+958,Lawrence PLC,1978,Technology,"Lake Victoriamouth, HI",6549,6688.91
+959,"Alexander, Young and Smith",1978,Retail,"Andersonmouth, VT",5790,723.24
+960,Anderson and Sons,1973,Food & Beverage,"East Carltown, TX",11424,9965.62
+961,Rice Inc,1962,Retail,"Lake Austin, IA",14601,2973.91
+962,Cole Inc,1992,Food & Beverage,"Clarkfort, OK",10206,9803.51
+963,Weiss-Snyder,2008,Retail,"North Ellenchester, NJ",18463,9933.97
+964,Wilcox-Kirby,2018,Manufacturing,"Codyland, OR",9503,8211.82
+965,Waters-Rush,2003,Finance,"Lake Joshua, MO",8928,4616.72
+966,Rogers-Espinoza,1955,Manufacturing,"Craigshire, IA",13644,9541.44
+967,Welch-Wells,1959,Healthcare,"North Philip, AL",14408,2944.8
+968,Duncan-Bishop,2000,Food & Beverage,"Hendersonport, NY",5444,1766.44
+969,"Jones, Olson and Flores",1993,Healthcare,"Abbottburgh, AR",10896,9547.04
+970,"Wright, Ortiz and Duffy",2004,Finance,"North Laura, ID",18954,4191.3
+971,Jackson Inc,2001,Healthcare,"West Paul, VA",14247,9337.97
+972,Sanchez LLC,2004,Healthcare,"East Robert, MA",19036,6647.17
+973,Navarro LLC,1958,Finance,"Michaelborough, VT",9238,2244.07
+974,"Reeves, Mccall and Smith",2011,Retail,"South Charleston, UT",5672,9137.05
+975,Johnson-Myers,1963,Finance,"Rileybury, AZ",2642,2249.67
+976,Harris LLC,1954,Technology,"Lucasborough, UT",13012,3022.54
+977,Grant LLC,1954,Retail,"Amandaton, VT",16999,4259.71
+978,Burton Inc,1960,Finance,"West Alyssa, CA",6979,2674.61
+979,"Morris, Baker and Robinson",2019,Manufacturing,"Amyside, NE",11161,8476.69
+980,Patel-Smith,1956,Manufacturing,"Taylorberg, SD",7668,5114.0
+981,Castro-Fuller,1950,Manufacturing,"Patrickstad, VA",19451,7669.15
+982,"Wolf, Ford and Shaw",1971,Healthcare,"Laratown, NJ",8414,9730.59
+983,Haney-Blake,1967,Retail,"Chamberston, CT",2044,6844.58
+984,"Burns, Simon and Ashley",1954,Healthcare,"Colliermouth, MN",12335,110.25
+985,"Williamson, Taylor and Miller",1965,Finance,"New Brianbury, KS",13835,9884.56
+986,Meza-Stevens,2020,Retail,"Kathrynchester, KS",18273,2307.45
+987,Whitehead Inc,1984,Retail,"South Jennifer, CA",17490,3441.84
+988,Le Inc,1997,Manufacturing,"West Jennifer, ME",5846,8648.45
+989,"Hammond, Perez and Buchanan",1990,Healthcare,"North Jamesstad, FL",356,7682.8
+990,Lowery-James,1961,Healthcare,"Port Charles, MO",3173,9235.99
+991,Coleman Ltd,1954,Technology,"West Mike, AK",4364,2293.13
+992,"Turner, Middleton and Stephens",1958,Food & Beverage,"Wallaceton, HI",17743,1301.38
+993,"Ellis, Johnson and Hartman",1991,Technology,"South Jennifer, NH",19528,6614.92
+994,Martinez-Thompson,2002,Technology,"Scottborough, KY",11000,2453.41
+995,Porter-Lyons,2000,Manufacturing,"West Deborah, LA",13878,5839.22
+996,"Williams, Bryant and Logan",1964,Technology,"Victoriabury, MI",15665,4814.12
+997,"Simpson, Johnson and Floyd",1974,Healthcare,"West Sandyberg, RI",9192,2948.65
+998,Sullivan-Ramos,1978,Manufacturing,"Rodriguezbury, SC",1030,9554.94
+999,"Allen, Daugherty and Phelps",1979,Retail,"Jenniferville, KS",12711,3723.82
+1000,"Sanders, Perez and Browning",1993,Finance,"Munozburgh, IN",8586,8626.81
